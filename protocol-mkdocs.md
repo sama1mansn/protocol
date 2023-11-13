@@ -7,7 +7,7 @@
 * Python
 * pip
 
-## Installation
+## InstallationPages. 
 
 1. Install [MkDocs](https://www.mkdocs.org/user-guide/installation/#installing-mkdocs):
 
